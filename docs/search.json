@@ -1,0 +1,661 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Complex Data Insights Ecosystem",
+    "section": "",
+    "text": "CDI System Guides: Updated Jun 2026",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html",
+    "href": "00-preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Core message\nComplex Data Insights exists to help transform complex data questions into reproducible analytical systems.\nThe CDI System Guides are designed as practical public resources. Each guide focuses on a specific layer of the data-to-decision pathway, while the ecosystem as a whole shows how those layers connect.\nThis guide is the public entry point for the CDI ecosystem.\nIt does not replace the individual system guides. Instead, it explains how they fit together, when to use each guide, and how the CDI pathway grows from foundational analytical thinking into domain-specific systems.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#core-message",
+    "href": "00-preface.html#core-message",
+    "title": "Preface",
+    "section": "",
+    "text": "From complex data questions to reproducible analytical systems.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "00-preface.html#what-this-ecosystem-guide-does",
+    "href": "00-preface.html#what-this-ecosystem-guide-does",
+    "title": "Preface",
+    "section": "What this ecosystem guide does",
+    "text": "What this ecosystem guide does\nThis guide helps readers:\n\nunderstand the CDI System Guides ecosystem;\nchoose the right guide for their current need;\nfollow a logical pathway from question to reproducible output;\nreuse public launch language for LinkedIn, README files, websites, and short posts;\nconnect technical work to communication, training, consulting, and decision support.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "01-system-guides-overview.html",
+    "href": "01-system-guides-overview.html",
+    "title": "CDI System Guides Overview",
+    "section": "",
+    "text": "Current CDI System Guides\nThe CDI System Guides are a connected collection of practical guides for building reproducible analytical workflows.\nEach guide can stand alone.\nTogether, they form an ecosystem.\nThe ecosystem connects:",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>CDI System Guides Overview</span>"
+    ]
+  },
+  {
+    "objectID": "01-system-guides-overview.html#current-cdi-system-guides",
+    "href": "01-system-guides-overview.html#current-cdi-system-guides",
+    "title": "CDI System Guides Overview",
+    "section": "",
+    "text": "Guide\nRole in the ecosystem\n\n\n\n\nData Science Foundations Premium\nParent analytical foundation\n\n\nSystematic Dataset Discovery\nFinding and screening suitable public datasets\n\n\nCDI Data Acquisition System\nReproducible data retrieval and validation\n\n\nMicrobiome Analysis System\nDomain-specific microbiome analysis workflow\n\n\nProteomics Analysis System\nResults-first proteomics interpretation workflow\n\n\nClinical & Medical Data Systems\nClinical and medical data workflow structure",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>CDI System Guides Overview</span>"
+    ]
+  },
+  {
+    "objectID": "01-system-guides-overview.html#ecosystem-principle",
+    "href": "01-system-guides-overview.html#ecosystem-principle",
+    "title": "CDI System Guides Overview",
+    "section": "Ecosystem principle",
+    "text": "Ecosystem principle\nA CDI guide should not only explain a method.\nIt should show how the method becomes part of a reusable, auditable, and communicable analytical system.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>CDI System Guides Overview</span>"
+    ]
+  },
+  {
+    "objectID": "02-cdi-framework.html",
+    "href": "02-cdi-framework.html",
+    "title": "CDI Framework",
+    "section": "",
+    "text": "Why a framework is needed\nThe CDI framework organizes analytical work as a pathway.\nComplex data work often fails not because individual methods are weak, but because the workflow is fragmented.\nA strong analytical system needs:",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CDI Framework</span>"
+    ]
+  },
+  {
+    "objectID": "02-cdi-framework.html#why-a-framework-is-needed",
+    "href": "02-cdi-framework.html#why-a-framework-is-needed",
+    "title": "CDI Framework",
+    "section": "",
+    "text": "a clear question;\ntraceable data sources;\nreproducible acquisition;\ndocumented assumptions;\nvalidated outputs;\ntransparent interpretation;\ncommunication that supports decisions.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CDI Framework</span>"
+    ]
+  },
+  {
+    "objectID": "02-cdi-framework.html#cdi-system-logic",
+    "href": "02-cdi-framework.html#cdi-system-logic",
+    "title": "CDI Framework",
+    "section": "CDI system logic",
+    "text": "CDI system logic\nEach CDI System Guide should answer five questions:\n\nWhat problem does this system solve?\nWhat inputs does it require?\nWhat workflow does it follow?\nWhat outputs does it produce?\nHow can the outputs support interpretation, reporting, or decisions?",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CDI Framework</span>"
+    ]
+  },
+  {
+    "objectID": "03-recommended-learning-pathway.html",
+    "href": "03-recommended-learning-pathway.html",
+    "title": "Recommended Learning Pathway",
+    "section": "",
+    "text": "Recommended order\nThe recommended sequence begins with analytical foundations, then moves toward dataset discovery, acquisition, domain-specific analysis, and clinical systems.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recommended Learning Pathway</span>"
+    ]
+  },
+  {
+    "objectID": "03-recommended-learning-pathway.html#recommended-order",
+    "href": "03-recommended-learning-pathway.html#recommended-order",
+    "title": "Recommended Learning Pathway",
+    "section": "",
+    "text": "1. Data Science Foundations Premium\n2. Systematic Dataset Discovery\n3. CDI Data Acquisition System\n4. Microbiome Analysis System\n5. Proteomics Analysis System\n6. Clinical & Medical Data Systems",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recommended Learning Pathway</span>"
+    ]
+  },
+  {
+    "objectID": "03-recommended-learning-pathway.html#why-this-order-works",
+    "href": "03-recommended-learning-pathway.html#why-this-order-works",
+    "title": "Recommended Learning Pathway",
+    "section": "Why this order works",
+    "text": "Why this order works\nData Science Foundations Premium provides the parent layer.\nSystematic Dataset Discovery helps identify suitable public datasets before analysis begins.\nCDI Data Acquisition System converts selected datasets into reproducible data inputs.\nMicrobiome and Proteomics Analysis Systems show how domain-specific biological workflows can be built on top of reproducible inputs.\nClinical & Medical Data Systems extends the same systems logic into clinical and medical contexts.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recommended Learning Pathway</span>"
+    ]
+  },
+  {
+    "objectID": "03-recommended-learning-pathway.html#alternative-entry-points",
+    "href": "03-recommended-learning-pathway.html#alternative-entry-points",
+    "title": "Recommended Learning Pathway",
+    "section": "Alternative entry points",
+    "text": "Alternative entry points\nReaders do not always need to start at the beginning.\nA learner may begin with Data Science Foundations Premium.\nA bioinformatics researcher may begin with Microbiome or Proteomics Analysis System.\nA clinical data team may begin with Clinical & Medical Data Systems.\nThe ecosystem exists so readers can enter at the most relevant point while still understanding the wider pathway.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recommended Learning Pathway</span>"
+    ]
+  },
+  {
+    "objectID": "04-guide-ecosystem-map.html",
+    "href": "04-guide-ecosystem-map.html",
+    "title": "Guide Ecosystem Map",
+    "section": "",
+    "text": "Pathway view\nThe CDI ecosystem can be understood as a layered map.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guide Ecosystem Map</span>"
+    ]
+  },
+  {
+    "objectID": "04-guide-ecosystem-map.html#pathway-view",
+    "href": "04-guide-ecosystem-map.html#pathway-view",
+    "title": "Guide Ecosystem Map",
+    "section": "",
+    "text": "Data Science Foundations Premium\n→ Systematic Dataset Discovery\n→ CDI Data Acquisition System\n→ Microbiome / Proteomics Analysis Systems\n→ Clinical & Medical Data Systems",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guide Ecosystem Map</span>"
+    ]
+  },
+  {
+    "objectID": "04-guide-ecosystem-map.html#public-positioning",
+    "href": "04-guide-ecosystem-map.html#public-positioning",
+    "title": "Guide Ecosystem Map",
+    "section": "Public positioning",
+    "text": "Public positioning\nThe ecosystem site is the front door.\nThe individual guide repositories are the detailed rooms.\nThis guide helps readers see the full CDI structure before entering a specific system.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guide Ecosystem Map</span>"
+    ]
+  },
+  {
+    "objectID": "05-how-to-use-the-guides.html",
+    "href": "05-how-to-use-the-guides.html",
+    "title": "How to Use the Guides",
+    "section": "",
+    "text": "For learning\nThe CDI System Guides can be used in several ways.\nUse the guides as structured learning pathways. Begin with the foundation guide, then move toward domain-specific workflows.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Use the Guides</span>"
+    ]
+  },
+  {
+    "objectID": "05-how-to-use-the-guides.html#for-research",
+    "href": "05-how-to-use-the-guides.html#for-research",
+    "title": "How to Use the Guides",
+    "section": "For research",
+    "text": "For research\nUse the guides to organize reproducible project workflows, especially when working with public datasets, omics outputs, or clinical data tables.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Use the Guides</span>"
+    ]
+  },
+  {
+    "objectID": "05-how-to-use-the-guides.html#for-consulting-and-training",
+    "href": "05-how-to-use-the-guides.html#for-consulting-and-training",
+    "title": "How to Use the Guides",
+    "section": "For consulting and training",
+    "text": "For consulting and training\nUse the guides as public proof of system thinking, reproducible workflow development, and practical analytical communication.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Use the Guides</span>"
+    ]
+  },
+  {
+    "objectID": "05-how-to-use-the-guides.html#for-public-communication",
+    "href": "05-how-to-use-the-guides.html#for-public-communication",
+    "title": "How to Use the Guides",
+    "section": "For public communication",
+    "text": "For public communication\nUse the launch materials to introduce each guide consistently across LinkedIn, GitHub README files, websites, and short social posts.",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Use the Guides</span>"
+    ]
+  },
+  {
+    "objectID": "05-how-to-use-the-guides.html#suggested-workflow",
+    "href": "05-how-to-use-the-guides.html#suggested-workflow",
+    "title": "How to Use the Guides",
+    "section": "Suggested workflow",
+    "text": "Suggested workflow\nRead the ecosystem overview\n→ choose a guide profile\n→ open the full guide repository\n→ adapt the workflow to a real project\n→ communicate the result clearly",
+    "crumbs": [
+      "CDI Ecosystem Foundation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>How to Use the Guides</span>"
+    ]
+  },
+  {
+    "objectID": "guides/06-data-science-foundations-premium.html",
+    "href": "guides/06-data-science-foundations-premium.html",
+    "title": "Data Science Foundations Premium",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nData Science Foundations Premium is the parent analytical foundation of the CDI ecosystem.\nIt introduces the thinking, workflows, and communication habits needed to move from analysis toward real-world analytical systems.\nThis guide provides the foundation for later CDI pathways.\nOnce a project has a tidy results table, many downstream systems can refer back to the data science foundation for model evaluation, visualization, interpretation, reporting, and decision-making principles.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Science Foundations Premium</span>"
+    ]
+  },
+  {
+    "objectID": "guides/06-data-science-foundations-premium.html#public-short-introduction",
+    "href": "guides/06-data-science-foundations-premium.html#public-short-introduction",
+    "title": "Data Science Foundations Premium",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nData Science Foundations Premium is the foundation layer of the CDI ecosystem, helping learners move from isolated analysis to reproducible analytical thinking.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Science Foundations Premium</span>"
+    ]
+  },
+  {
+    "objectID": "guides/06-data-science-foundations-premium.html#public-long-introduction",
+    "href": "guides/06-data-science-foundations-premium.html#public-long-introduction",
+    "title": "Data Science Foundations Premium",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nData Science Foundations Premium introduces the core analytical ideas behind the CDI System Guides. It focuses on building a practical foundation for reproducible analysis, model evaluation, interpretation, communication, and decision support. This guide supports learners and analysts who want to move beyond single results toward structured analytical workflows that can support real projects.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Science Foundations Premium</span>"
+    ]
+  },
+  {
+    "objectID": "guides/06-data-science-foundations-premium.html#suggested-call-to-action",
+    "href": "guides/06-data-science-foundations-premium.html#suggested-call-to-action",
+    "title": "Data Science Foundations Premium",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nStart here if you want the analytical foundation behind the CDI System Guides.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data Science Foundations Premium</span>"
+    ]
+  },
+  {
+    "objectID": "guides/07-systematic-dataset-discovery.html",
+    "href": "guides/07-systematic-dataset-discovery.html",
+    "title": "Systematic Dataset Discovery",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nSystematic Dataset Discovery helps turn a research question into a transparent dataset selection process.\nThis guide sits between the research question and data acquisition.\nIt helps identify, screen, prioritize, and document public datasets before downstream analysis begins.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Systematic Dataset Discovery</span>"
+    ]
+  },
+  {
+    "objectID": "guides/07-systematic-dataset-discovery.html#public-short-introduction",
+    "href": "guides/07-systematic-dataset-discovery.html#public-short-introduction",
+    "title": "Systematic Dataset Discovery",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nSystematic Dataset Discovery helps researchers move from broad research questions to eligible public datasets using a transparent and reproducible screening workflow.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Systematic Dataset Discovery</span>"
+    ]
+  },
+  {
+    "objectID": "guides/07-systematic-dataset-discovery.html#public-long-introduction",
+    "href": "guides/07-systematic-dataset-discovery.html#public-long-introduction",
+    "title": "Systematic Dataset Discovery",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nSystematic Dataset Discovery is a CDI guide for finding and evaluating public datasets before analysis begins. It supports reproducible research by making dataset search, screening, inclusion, exclusion, and prioritization more transparent. The guide is especially useful when public omics datasets need to be selected carefully before acquisition and analysis.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Systematic Dataset Discovery</span>"
+    ]
+  },
+  {
+    "objectID": "guides/07-systematic-dataset-discovery.html#suggested-call-to-action",
+    "href": "guides/07-systematic-dataset-discovery.html#suggested-call-to-action",
+    "title": "Systematic Dataset Discovery",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nUse this guide when the first challenge is finding the right dataset.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Systematic Dataset Discovery</span>"
+    ]
+  },
+  {
+    "objectID": "guides/08-cdi-data-acquisition-system.html",
+    "href": "guides/08-cdi-data-acquisition-system.html",
+    "title": "CDI Data Acquisition System",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nThe CDI Data Acquisition System supports reproducible retrieval, validation, and organization of public omics data.\nThis guide converts selected datasets into structured project inputs.\nIt connects dataset discovery with downstream analytical systems such as microbiome and proteomics workflows.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CDI Data Acquisition System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/08-cdi-data-acquisition-system.html#public-short-introduction",
+    "href": "guides/08-cdi-data-acquisition-system.html#public-short-introduction",
+    "title": "CDI Data Acquisition System",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nThe CDI Data Acquisition System helps turn selected public datasets into reproducible, validated, analysis-ready project inputs.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CDI Data Acquisition System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/08-cdi-data-acquisition-system.html#public-long-introduction",
+    "href": "guides/08-cdi-data-acquisition-system.html#public-long-introduction",
+    "title": "CDI Data Acquisition System",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nThe CDI Data Acquisition System is a practical guide for retrieving, validating, and organizing public omics data. It focuses on reproducibility, traceability, manifests, validation reports, and project-ready data organization. This system helps ensure that downstream analysis begins from documented and defensible data inputs.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CDI Data Acquisition System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/08-cdi-data-acquisition-system.html#suggested-call-to-action",
+    "href": "guides/08-cdi-data-acquisition-system.html#suggested-call-to-action",
+    "title": "CDI Data Acquisition System",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nUse this guide when you need to move from selected accessions to organized, validated data files.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CDI Data Acquisition System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/09-microbiome-analysis-system.html",
+    "href": "guides/09-microbiome-analysis-system.html",
+    "title": "Microbiome Analysis System",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nThe Microbiome Analysis System is a domain-specific CDI guide for organizing microbiome analysis into a reproducible workflow.\nThis guide builds on data acquisition and moves into microbiome-specific quality control, feature generation, taxonomic profiling, diversity analysis, functional profiling, differential analysis, interpretation, and reporting.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Microbiome Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/09-microbiome-analysis-system.html#public-short-introduction",
+    "href": "guides/09-microbiome-analysis-system.html#public-short-introduction",
+    "title": "Microbiome Analysis System",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nThe Microbiome Analysis System helps turn microbiome data into reproducible profiles, interpretable results, and defensible biological insights.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Microbiome Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/09-microbiome-analysis-system.html#public-long-introduction",
+    "href": "guides/09-microbiome-analysis-system.html#public-long-introduction",
+    "title": "Microbiome Analysis System",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nThe Microbiome Analysis System is a CDI omics guide for structuring microbiome analysis from data inputs to biological interpretation. It connects acquisition, quality control, feature generation, taxonomic profiling, functional profiling, differential analysis, and reproducible reporting into a coherent analytical system.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Microbiome Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/09-microbiome-analysis-system.html#suggested-call-to-action",
+    "href": "guides/09-microbiome-analysis-system.html#suggested-call-to-action",
+    "title": "Microbiome Analysis System",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nUse this guide when microbiome data need to become a reproducible analytical workflow rather than a collection of disconnected outputs.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Microbiome Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/10-proteomics-analysis-system.html",
+    "href": "guides/10-proteomics-analysis-system.html",
+    "title": "Proteomics Analysis System",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nThe Proteomics Analysis System is a results-first CDI guide for working with processed proteomics result tables.\nThis guide focuses on the common real-world starting point where users already have differential protein abundance results and need to clean, rank, annotate, enrich, visualize, interpret, and report them.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Proteomics Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/10-proteomics-analysis-system.html#public-short-introduction",
+    "href": "guides/10-proteomics-analysis-system.html#public-short-introduction",
+    "title": "Proteomics Analysis System",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nThe Proteomics Analysis System helps turn processed proteomics result tables into ranked proteins, functional interpretation, and reproducible reports.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Proteomics Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/10-proteomics-analysis-system.html#public-long-introduction",
+    "href": "guides/10-proteomics-analysis-system.html#public-long-introduction",
+    "title": "Proteomics Analysis System",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nThe Proteomics Analysis System is a CDI omics guide for results-first proteomics workflows. It begins with processed differential protein tables and guides users through table inspection, metadata validation, differential abundance interpretation, protein ranking, identifier cleaning, GO and pathway enrichment, network analysis, visualization, biological interpretation, and reproducible reporting.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Proteomics Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/10-proteomics-analysis-system.html#suggested-call-to-action",
+    "href": "guides/10-proteomics-analysis-system.html#suggested-call-to-action",
+    "title": "Proteomics Analysis System",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nUse this guide when you already have proteomics results and need to turn them into defensible biological interpretation.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Proteomics Analysis System</span>"
+    ]
+  },
+  {
+    "objectID": "guides/11-clinical-medical-data-systems.html",
+    "href": "guides/11-clinical-medical-data-systems.html",
+    "title": "Clinical & Medical Data Systems",
+    "section": "",
+    "text": "Role in the CDI ecosystem\nClinical & Medical Data Systems applies CDI systems thinking to clinical and medical data workflows.\nThis guide extends CDI reproducibility principles into clinical and medical contexts, where data structure, validation, interpretation, privacy-aware thinking, reporting, and decision support are especially important.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Clinical & Medical Data Systems</span>"
+    ]
+  },
+  {
+    "objectID": "guides/11-clinical-medical-data-systems.html#public-short-introduction",
+    "href": "guides/11-clinical-medical-data-systems.html#public-short-introduction",
+    "title": "Clinical & Medical Data Systems",
+    "section": "Public short introduction",
+    "text": "Public short introduction\nClinical & Medical Data Systems helps organize clinical and medical data workflows into structured, reproducible, and interpretable analytical systems.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Clinical & Medical Data Systems</span>"
+    ]
+  },
+  {
+    "objectID": "guides/11-clinical-medical-data-systems.html#public-long-introduction",
+    "href": "guides/11-clinical-medical-data-systems.html#public-long-introduction",
+    "title": "Clinical & Medical Data Systems",
+    "section": "Public long introduction",
+    "text": "Public long introduction\nClinical & Medical Data Systems is a CDI guide for organizing clinical and medical data workflows. It focuses on practical systems for data structure, validation, analysis readiness, interpretation, reporting, and decision-oriented communication. The guide connects analytical reproducibility with the realities of clinical and medical data work.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Clinical & Medical Data Systems</span>"
+    ]
+  },
+  {
+    "objectID": "guides/11-clinical-medical-data-systems.html#suggested-call-to-action",
+    "href": "guides/11-clinical-medical-data-systems.html#suggested-call-to-action",
+    "title": "Clinical & Medical Data Systems",
+    "section": "Suggested call to action",
+    "text": "Suggested call to action\nUse this guide when clinical or medical data need to be organized into a reliable analytical workflow.",
+    "crumbs": [
+      "CDI System Guide Profiles",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Clinical & Medical Data Systems</span>"
+    ]
+  },
+  {
+    "objectID": "launch/12-public-introduction-framework.html",
+    "href": "launch/12-public-introduction-framework.html",
+    "title": "Public Introduction Framework",
+    "section": "",
+    "text": "Core CDI message\nThis chapter provides the reusable public introduction framework for CDI System Guides.",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Public Introduction Framework</span>"
+    ]
+  },
+  {
+    "objectID": "launch/12-public-introduction-framework.html#core-cdi-message",
+    "href": "launch/12-public-introduction-framework.html#core-cdi-message",
+    "title": "Public Introduction Framework",
+    "section": "",
+    "text": "From complex data questions to reproducible analytical systems.",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Public Introduction Framework</span>"
+    ]
+  },
+  {
+    "objectID": "launch/12-public-introduction-framework.html#umbrella-introduction",
+    "href": "launch/12-public-introduction-framework.html#umbrella-introduction",
+    "title": "Public Introduction Framework",
+    "section": "Umbrella introduction",
+    "text": "Umbrella introduction\nComplex Data Insights System Guides are practical, systems-oriented resources for building reproducible analytical workflows across data science, public dataset discovery, data acquisition, omics analysis, clinical data systems, and public communication.\nEach guide is designed as a modular system that can stand alone, but together they form a connected pathway from question formulation to defensible analysis, interpretation, reporting, and decision support.",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Public Introduction Framework</span>"
+    ]
+  },
+  {
+    "objectID": "launch/12-public-introduction-framework.html#reusable-launch-structure",
+    "href": "launch/12-public-introduction-framework.html#reusable-launch-structure",
+    "title": "Public Introduction Framework",
+    "section": "Reusable launch structure",
+    "text": "Reusable launch structure\n1. Name the guide\n2. State the problem it solves\n3. Explain where it fits in the CDI ecosystem\n4. Describe the practical workflow\n5. Identify who it is for\n6. End with a clear call to action",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Public Introduction Framework</span>"
+    ]
+  },
+  {
+    "objectID": "launch/12-public-introduction-framework.html#consistent-hashtags",
+    "href": "launch/12-public-introduction-framework.html#consistent-hashtags",
+    "title": "Public Introduction Framework",
+    "section": "Consistent hashtags",
+    "text": "Consistent hashtags\n#ComplexDataInsights #CDISystemGuides #DataScience #ReproducibleResearch #AnalyticalSystems #OpenScience",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Public Introduction Framework</span>"
+    ]
+  },
+  {
+    "objectID": "launch/13-linkedin-launch-posts.html",
+    "href": "launch/13-linkedin-launch-posts.html",
+    "title": "LinkedIn Launch Posts",
+    "section": "",
+    "text": "General CDI ecosystem launch post\nThis chapter stores reusable LinkedIn launch language for CDI System Guides.\nComplex Data Insights System Guides are built around one central message:\nFrom complex data questions to reproducible analytical systems.\nThe CDI ecosystem connects practical guides across data science foundations, dataset discovery, data acquisition, omics analysis, clinical data systems, and reproducible reporting.\nEach guide can stand alone, but together they form a pathway from question formulation to defensible analysis, interpretation, and decision support.\n#ComplexDataInsights #CDISystemGuides #DataScience #ReproducibleResearch #AnalyticalSystems #OpenScience",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>LinkedIn Launch Posts</span>"
+    ]
+  },
+  {
+    "objectID": "launch/13-linkedin-launch-posts.html#guide-specific-template",
+    "href": "launch/13-linkedin-launch-posts.html#guide-specific-template",
+    "title": "LinkedIn Launch Posts",
+    "section": "Guide-specific template",
+    "text": "Guide-specific template\nI am introducing [GUIDE NAME], part of the Complex Data Insights System Guides ecosystem.\n\nThis guide focuses on [PROBLEM / WORKFLOW AREA].\n\nIt fits into the CDI pathway by helping users move from [STARTING POINT] to [OUTPUT / DECISION VALUE].\n\nThe goal is practical: not just to explain methods, but to organize analytical work into reproducible systems.\n\nFrom complex data questions to reproducible analytical systems.\n\n#ComplexDataInsights #CDISystemGuides #ReproducibleResearch #AnalyticalSystems",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>LinkedIn Launch Posts</span>"
+    ]
+  },
+  {
+    "objectID": "launch/14-short-social-posts.html",
+    "href": "launch/14-short-social-posts.html",
+    "title": "Short Social Posts",
+    "section": "",
+    "text": "CDI ecosystem short post\nThis chapter stores short public posts for CDI System Guides.\nComplex Data Insights System Guides are practical resources for moving from complex data questions to reproducible analytical systems.\nThe ecosystem connects data science, dataset discovery, data acquisition, omics analysis, clinical data systems, and reporting.\n#ComplexDataInsights #CDISystemGuides #ReproducibleResearch",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Short Social Posts</span>"
+    ]
+  },
+  {
+    "objectID": "launch/14-short-social-posts.html#very-short-version",
+    "href": "launch/14-short-social-posts.html#very-short-version",
+    "title": "Short Social Posts",
+    "section": "Very short version",
+    "text": "Very short version\nFrom complex data questions to reproducible analytical systems.\nThat is the core idea behind the Complex Data Insights System Guides.\n#ComplexDataInsights #CDISystemGuides",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Short Social Posts</span>"
+    ]
+  },
+  {
+    "objectID": "launch/15-website-snippets.html",
+    "href": "launch/15-website-snippets.html",
+    "title": "Website Snippets",
+    "section": "",
+    "text": "Landing page snippet\nThis chapter stores reusable website and README snippets for the CDI ecosystem.\nComplex Data Insights System Guides are practical, systems-oriented resources for building reproducible analytical workflows across data science, public dataset discovery, data acquisition, omics analysis, clinical data systems, and reproducible reporting.\nEach guide is designed as a modular system that can stand alone, but together they form a connected pathway from question formulation to defensible analysis, interpretation, reporting, and decision support.",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Website Snippets</span>"
+    ]
+  },
+  {
+    "objectID": "launch/15-website-snippets.html#readme-snippet",
+    "href": "launch/15-website-snippets.html#readme-snippet",
+    "title": "Website Snippets",
+    "section": "README snippet",
+    "text": "README snippet\nThis repository is the public landing hub for the Complex Data Insights System Guides ecosystem.\nIt connects CDI guides across data science foundations, systematic dataset discovery, reproducible data acquisition, microbiome analysis, proteomics analysis, clinical and medical data systems, and public communication workflows.\nCore message:\nFrom complex data questions to reproducible analytical systems.",
+    "crumbs": [
+      "Public Communication and Launch Materials",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Website Snippets</span>"
+    ]
+  },
+  {
+    "objectID": "999-appendix.html",
+    "href": "999-appendix.html",
+    "title": "Appendix",
+    "section": "",
+    "text": "Future guide candidates\nThis appendix can store supporting notes, checklists, terminology, future guide ideas, and implementation references for the CDI ecosystem.\nPotential future CDI guides may include:",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Appendix</span>"
+    ]
+  },
+  {
+    "objectID": "999-appendix.html#future-guide-candidates",
+    "href": "999-appendix.html#future-guide-candidates",
+    "title": "Appendix",
+    "section": "",
+    "text": "AI, Thinking & Decision Systems;\nApplied Decision Support Systems;\nPublic Health Data Systems;\nResearch Communication Systems;\nReproducible Reporting Systems.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Appendix</span>"
+    ]
+  },
+  {
+    "objectID": "999-references.html",
+    "href": "999-references.html",
+    "title": "References",
+    "section": "",
+    "text": "ID: CDI-ECO-999R\nType: References\nAudience: Readers who want citations and supporting sources\nTheme: Reference support for the CDI ecosystem\n\n\nThis page will store references for the CDI ecosystem guide.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>References</span>"
+    ]
+  }
+]
