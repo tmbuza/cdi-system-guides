@@ -10,11 +10,6 @@ book:
   title: "Complex Data Insights Ecosystem"
   subtitle: "From Complex Data Questions to Reproducible Analytical Systems"
   author: "Teresia Mrema Buza | Complex Data Insights"
-  date: today
-  site-url: "https://ecosystem.complexdatainsights.com"
-  repo-url: "https://github.com/tmbuza/cdi-system-guides"
-  repo-actions: [source, issue]
-  search: true
 
   chapters:
     - index.qmd
