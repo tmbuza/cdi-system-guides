@@ -11,6 +11,6 @@ format:
 </div>
 
 <div style="text-align: center; font-style: normal; margin-top: 1em;">
-CDI Ecosystem: Updated {{< meta date >}}
+CDI System Guides: Updated {{< meta date >}}
 </div>
 
