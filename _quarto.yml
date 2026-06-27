@@ -1,0 +1,96 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Complex Data Insights System Guides"
+  description: "Public hub for Complex Data Insights System Guides: from complex data questions to reproducible analytical systems."
+  site-url: "https://ecosystem.complexdatainsights.com"
+  repo-url: "https://github.com/tmbuza/cdi-system-guides"
+  repo-actions: [source, issue]
+  page-navigation: true
+  reader-mode: true
+
+  navbar:
+    title: "CDI System Guides"
+    logo: assets/images/cdi-logo.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Guides"
+        menu:
+          - text: "Data Science Foundations Premium"
+            href: guides/data-science-foundations.qmd
+          - text: "Systematic Dataset Discovery"
+            href: guides/systematic-dataset-discovery.qmd
+          - text: "CDI Data Acquisition System"
+            href: guides/data-acquisition-system.qmd
+          - text: "Microbiome Analysis System"
+            href: guides/microbiome-analysis-system.qmd
+          - text: "Proteomics Analysis System"
+            href: guides/proteomics-analysis-system.qmd
+          - text: "Clinical & Medical Data Systems"
+            href: guides/clinical-medical-data-systems.qmd
+      - text: "Launch Kit"
+        menu:
+          - text: "LinkedIn Posts"
+            href: launch/linkedin-posts.qmd
+          - text: "Short Social Posts"
+            href: launch/short-social-posts.qmd
+          - text: "Website Snippets"
+            href: launch/website-snippets.qmd
+      - text: "Roadmap"
+        href: roadmap.qmd
+    right:
+      - icon: github
+        href: https://github.com/tmbuza/cdi-system-guides
+        aria-label: GitHub
+      - text: "Complex Data Insights"
+        href: https://complexdatainsights.com
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "CDI System Guides"
+        contents:
+          - index.qmd
+          - roadmap.qmd
+      - section: "Guide Pathways"
+        contents:
+          - guides/data-science-foundations.qmd
+          - guides/systematic-dataset-discovery.qmd
+          - guides/data-acquisition-system.qmd
+          - guides/microbiome-analysis-system.qmd
+          - guides/proteomics-analysis-system.qmd
+          - guides/clinical-medical-data-systems.qmd
+      - section: "Public Launch Kit"
+        contents:
+          - launch/linkedin-posts.qmd
+          - launch/short-social-posts.qmd
+          - launch/website-snippets.qmd
+
+  page-footer:
+    left: "© Complex Data Insights"
+    right:
+      - text: "Complex Data Insights"
+        href: https://complexdatainsights.com
+      - text: "GitHub"
+        href: https://github.com/tmbuza/cdi-system-guides
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    css: assets/css/styles.css
+
+execute:
+  freeze: auto
