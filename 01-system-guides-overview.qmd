@@ -1,0 +1,43 @@
+# CDI System Guides Overview
+
+:::cdi-message
+- **ID:** CDI-ECO-001
+- **Type:** Ecosystem Overview
+- **Audience:** New readers, collaborators, learners, and technical teams
+- **Theme:** The CDI guide-of-guides
+:::
+
+The CDI System Guides are a connected collection of practical guides for building reproducible analytical workflows.
+
+Each guide can stand alone.
+
+Together, they form an ecosystem.
+
+The ecosystem connects:
+
+```text
+Question
+→ Discovery
+→ Acquisition
+→ Analysis
+→ Interpretation
+→ Reporting
+→ Decision Support
+```
+
+## Current CDI System Guides
+
+| Guide | Role in the ecosystem |
+|---|---|
+| Data Science Foundations Premium | Parent analytical foundation |
+| Systematic Dataset Discovery | Finding and screening suitable public datasets |
+| CDI Data Acquisition System | Reproducible data retrieval and validation |
+| Microbiome Analysis System | Domain-specific microbiome analysis workflow |
+| Proteomics Analysis System | Results-first proteomics interpretation workflow |
+| Clinical & Medical Data Systems | Clinical and medical data workflow structure |
+
+## Ecosystem principle
+
+A CDI guide should not only explain a method.
+
+It should show how the method becomes part of a reusable, auditable, and communicable analytical system.

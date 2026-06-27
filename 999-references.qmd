@@ -1,0 +1,13 @@
+# References
+
+:::cdi-message
+- **ID:** CDI-ECO-999R
+- **Type:** References
+- **Audience:** Readers who want citations and supporting sources
+- **Theme:** Reference support for the CDI ecosystem
+:::
+
+This page will store references for the CDI ecosystem guide.
+
+::: {#refs}
+:::

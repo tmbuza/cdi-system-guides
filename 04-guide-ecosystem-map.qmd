@@ -1,0 +1,42 @@
+# Guide Ecosystem Map
+
+:::cdi-message
+- **ID:** CDI-ECO-004
+- **Type:** Ecosystem Map
+- **Audience:** Public readers, collaborators, funders, learners, and technical teams
+- **Theme:** How the CDI guides connect
+:::
+
+The CDI ecosystem can be understood as a layered map.
+
+```text
+Complex Data Insights Ecosystem
+├── Foundations
+│   └── Data Science Foundations Premium
+├── Data Discovery and Acquisition
+│   ├── Systematic Dataset Discovery
+│   └── CDI Data Acquisition System
+├── Omics Analysis Systems
+│   ├── Microbiome Analysis System
+│   └── Proteomics Analysis System
+└── Clinical and Medical Data Systems
+    └── Clinical & Medical Data Systems
+```
+
+## Pathway view
+
+```text
+Data Science Foundations Premium
+→ Systematic Dataset Discovery
+→ CDI Data Acquisition System
+→ Microbiome / Proteomics Analysis Systems
+→ Clinical & Medical Data Systems
+```
+
+## Public positioning
+
+The ecosystem site is the front door.
+
+The individual guide repositories are the detailed rooms.
+
+This guide helps readers see the full CDI structure before entering a specific system.

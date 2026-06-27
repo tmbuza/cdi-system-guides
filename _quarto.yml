@@ -1,96 +1,71 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: "Complex Data Insights System Guides"
-  description: "Public hub for Complex Data Insights System Guides: from complex data questions to reproducible analytical systems."
+bibliography: library/references.bib
+date: last-modified
+date-format: "MMM YYYY"
+
+book:
+  title: "Complex Data Insights Ecosystem"
+  subtitle: "From Complex Data Questions to Reproducible Analytical Systems"
+  author: "Teresia Mrema Buza | Complex Data Insights"
+  date: today
   site-url: "https://ecosystem.complexdatainsights.com"
   repo-url: "https://github.com/tmbuza/cdi-system-guides"
   repo-actions: [source, issue]
-  page-navigation: true
-  reader-mode: true
+  search: true
 
-  navbar:
-    title: "CDI System Guides"
-    logo: assets/images/cdi-logo.png
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Guides"
-        menu:
-          - text: "Data Science Foundations Premium"
-            href: guides/data-science-foundations.qmd
-          - text: "Systematic Dataset Discovery"
-            href: guides/systematic-dataset-discovery.qmd
-          - text: "CDI Data Acquisition System"
-            href: guides/data-acquisition-system.qmd
-          - text: "Microbiome Analysis System"
-            href: guides/microbiome-analysis-system.qmd
-          - text: "Proteomics Analysis System"
-            href: guides/proteomics-analysis-system.qmd
-          - text: "Clinical & Medical Data Systems"
-            href: guides/clinical-medical-data-systems.qmd
-      - text: "Launch Kit"
-        menu:
-          - text: "LinkedIn Posts"
-            href: launch/linkedin-posts.qmd
-          - text: "Short Social Posts"
-            href: launch/short-social-posts.qmd
-          - text: "Website Snippets"
-            href: launch/website-snippets.qmd
-      - text: "Roadmap"
-        href: roadmap.qmd
-    right:
-      - icon: github
-        href: https://github.com/tmbuza/cdi-system-guides
-        aria-label: GitHub
-      - text: "Complex Data Insights"
-        href: https://complexdatainsights.com
+  chapters:
+    - index.qmd
 
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "CDI System Guides"
-        contents:
-          - index.qmd
-          - roadmap.qmd
-      - section: "Guide Pathways"
-        contents:
-          - guides/data-science-foundations.qmd
-          - guides/systematic-dataset-discovery.qmd
-          - guides/data-acquisition-system.qmd
-          - guides/microbiome-analysis-system.qmd
-          - guides/proteomics-analysis-system.qmd
-          - guides/clinical-medical-data-systems.qmd
-      - section: "Public Launch Kit"
-        contents:
-          - launch/linkedin-posts.qmd
-          - launch/short-social-posts.qmd
-          - launch/website-snippets.qmd
+    - part: "CDI Ecosystem Foundation"
+      chapters:
+        - 00-preface.qmd
+        - 01-system-guides-overview.qmd
+        - 02-cdi-framework.qmd
+        - 03-recommended-learning-pathway.qmd
+        - 04-guide-ecosystem-map.qmd
+        - 05-how-to-use-the-guides.qmd
 
-  page-footer:
-    left: "© Complex Data Insights"
-    right:
-      - text: "Complex Data Insights"
-        href: https://complexdatainsights.com
-      - text: "GitHub"
-        href: https://github.com/tmbuza/cdi-system-guides
+    - part: "CDI System Guide Profiles"
+      chapters:
+        - guides/06-data-science-foundations-premium.qmd
+        - guides/07-systematic-dataset-discovery.qmd
+        - guides/08-cdi-data-acquisition-system.qmd
+        - guides/09-microbiome-analysis-system.qmd
+        - guides/10-proteomics-analysis-system.qmd
+        - guides/11-clinical-medical-data-systems.qmd
+
+    - part: "Public Communication and Launch Materials"
+      chapters:
+        - launch/12-public-introduction-framework.qmd
+        - launch/13-linkedin-launch-posts.qmd
+        - launch/14-short-social-posts.qmd
+        - launch/15-website-snippets.qmd
+
+    - part: "Appendices"
+      chapters:
+        - 999-appendix.qmd
+        - 999-references.qmd
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
     toc: true
     toc-depth: 3
     number-sections: false
+    number-depth: 2
     smooth-scroll: true
-    code-copy: true
-    code-overflow: wrap
-    link-external-newwindow: true
-    css: assets/css/styles.css
+    anchor-sections: true
+    link-external-icon: true
+    css: assets/css/cdi.css
+    code-fold: true
+    mermaid:
+      theme: forest
 
 execute:
+  echo: true
+  warning: false
+  message: false
   freeze: auto
+  working-dir: .

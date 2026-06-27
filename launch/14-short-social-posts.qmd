@@ -1,0 +1,26 @@
+# Short Social Posts
+
+:::cdi-message
+- **ID:** CDI-ECO-014
+- **Type:** Short Social Copy
+- **Audience:** Short-form social platforms and quick public updates
+- **Theme:** Concise CDI ecosystem messaging
+:::
+
+This chapter stores short public posts for CDI System Guides.
+
+## CDI ecosystem short post
+
+Complex Data Insights System Guides are practical resources for moving from complex data questions to reproducible analytical systems.
+
+The ecosystem connects data science, dataset discovery, data acquisition, omics analysis, clinical data systems, and reporting.
+
+#ComplexDataInsights #CDISystemGuides #ReproducibleResearch
+
+## Very short version
+
+From complex data questions to reproducible analytical systems.
+
+That is the core idea behind the Complex Data Insights System Guides.
+
+#ComplexDataInsights #CDISystemGuides

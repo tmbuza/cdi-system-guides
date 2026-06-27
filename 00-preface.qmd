@@ -1,0 +1,32 @@
+# Preface
+
+:::cdi-message
+- **ID:** CDI-ECO-000
+- **Type:** Ecosystem Preface
+- **Audience:** Learners, researchers, analysts, technical teams, and collaborators
+- **Theme:** Why CDI System Guides exist
+:::
+
+Complex Data Insights exists to help transform complex data questions into reproducible analytical systems.
+
+The CDI System Guides are designed as practical public resources. Each guide focuses on a specific layer of the data-to-decision pathway, while the ecosystem as a whole shows how those layers connect.
+
+This guide is the public entry point for the CDI ecosystem.
+
+It does not replace the individual system guides. Instead, it explains how they fit together, when to use each guide, and how the CDI pathway grows from foundational analytical thinking into domain-specific systems.
+
+## Core message
+
+```text
+From complex data questions to reproducible analytical systems.
+```
+
+## What this ecosystem guide does
+
+This guide helps readers:
+
+- understand the CDI System Guides ecosystem;
+- choose the right guide for their current need;
+- follow a logical pathway from question to reproducible output;
+- reuse public launch language for LinkedIn, README files, websites, and short posts;
+- connect technical work to communication, training, consulting, and decision support.

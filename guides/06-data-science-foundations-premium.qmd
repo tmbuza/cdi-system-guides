@@ -1,0 +1,30 @@
+# Data Science Foundations Premium
+
+:::cdi-message
+- **ID:** CDI-ECO-006
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Learners, analysts, researchers, and technical teams
+- **Theme:** Foundational analytical thinking for reproducible systems
+:::
+
+Data Science Foundations Premium is the parent analytical foundation of the CDI ecosystem.
+
+It introduces the thinking, workflows, and communication habits needed to move from analysis toward real-world analytical systems.
+
+## Role in the CDI ecosystem
+
+This guide provides the foundation for later CDI pathways.
+
+Once a project has a tidy results table, many downstream systems can refer back to the data science foundation for model evaluation, visualization, interpretation, reporting, and decision-making principles.
+
+## Public short introduction
+
+Data Science Foundations Premium is the foundation layer of the CDI ecosystem, helping learners move from isolated analysis to reproducible analytical thinking.
+
+## Public long introduction
+
+Data Science Foundations Premium introduces the core analytical ideas behind the CDI System Guides. It focuses on building a practical foundation for reproducible analysis, model evaluation, interpretation, communication, and decision support. This guide supports learners and analysts who want to move beyond single results toward structured analytical workflows that can support real projects.
+
+## Suggested call to action
+
+Start here if you want the analytical foundation behind the CDI System Guides.

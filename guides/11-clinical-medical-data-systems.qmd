@@ -1,0 +1,26 @@
+# Clinical & Medical Data Systems
+
+:::cdi-message
+- **ID:** CDI-ECO-011
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Clinical researchers, health data teams, analysts, and medical data learners
+- **Theme:** Structuring clinical and medical data workflows
+:::
+
+Clinical & Medical Data Systems applies CDI systems thinking to clinical and medical data workflows.
+
+## Role in the CDI ecosystem
+
+This guide extends CDI reproducibility principles into clinical and medical contexts, where data structure, validation, interpretation, privacy-aware thinking, reporting, and decision support are especially important.
+
+## Public short introduction
+
+Clinical & Medical Data Systems helps organize clinical and medical data workflows into structured, reproducible, and interpretable analytical systems.
+
+## Public long introduction
+
+Clinical & Medical Data Systems is a CDI guide for organizing clinical and medical data workflows. It focuses on practical systems for data structure, validation, analysis readiness, interpretation, reporting, and decision-oriented communication. The guide connects analytical reproducibility with the realities of clinical and medical data work.
+
+## Suggested call to action
+
+Use this guide when clinical or medical data need to be organized into a reliable analytical workflow.

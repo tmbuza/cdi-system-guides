@@ -1,0 +1,28 @@
+# Website Snippets
+
+:::cdi-message
+- **ID:** CDI-ECO-015
+- **Type:** Website Copy
+- **Audience:** Website visitors, collaborators, learners, and public readers
+- **Theme:** Landing page and README-ready language
+:::
+
+This chapter stores reusable website and README snippets for the CDI ecosystem.
+
+## Landing page snippet
+
+Complex Data Insights System Guides are practical, systems-oriented resources for building reproducible analytical workflows across data science, public dataset discovery, data acquisition, omics analysis, clinical data systems, and reproducible reporting.
+
+Each guide is designed as a modular system that can stand alone, but together they form a connected pathway from question formulation to defensible analysis, interpretation, reporting, and decision support.
+
+## README snippet
+
+This repository is the public landing hub for the Complex Data Insights System Guides ecosystem.
+
+It connects CDI guides across data science foundations, systematic dataset discovery, reproducible data acquisition, microbiome analysis, proteomics analysis, clinical and medical data systems, and public communication workflows.
+
+Core message:
+
+```text
+From complex data questions to reproducible analytical systems.
+```

@@ -1,0 +1,45 @@
+# Recommended Learning Pathway
+
+:::cdi-message
+- **ID:** CDI-ECO-003
+- **Type:** Learning Pathway
+- **Audience:** Learners, analysts, researchers, and training groups
+- **Theme:** A logical sequence through the CDI guides
+:::
+
+The recommended sequence begins with analytical foundations, then moves toward dataset discovery, acquisition, domain-specific analysis, and clinical systems.
+
+## Recommended order
+
+```text
+1. Data Science Foundations Premium
+2. Systematic Dataset Discovery
+3. CDI Data Acquisition System
+4. Microbiome Analysis System
+5. Proteomics Analysis System
+6. Clinical & Medical Data Systems
+```
+
+## Why this order works
+
+Data Science Foundations Premium provides the parent layer.
+
+Systematic Dataset Discovery helps identify suitable public datasets before analysis begins.
+
+CDI Data Acquisition System converts selected datasets into reproducible data inputs.
+
+Microbiome and Proteomics Analysis Systems show how domain-specific biological workflows can be built on top of reproducible inputs.
+
+Clinical & Medical Data Systems extends the same systems logic into clinical and medical contexts.
+
+## Alternative entry points
+
+Readers do not always need to start at the beginning.
+
+A learner may begin with Data Science Foundations Premium.
+
+A bioinformatics researcher may begin with Microbiome or Proteomics Analysis System.
+
+A clinical data team may begin with Clinical & Medical Data Systems.
+
+The ecosystem exists so readers can enter at the most relevant point while still understanding the wider pathway.

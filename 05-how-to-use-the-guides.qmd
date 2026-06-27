@@ -1,0 +1,36 @@
+# How to Use the Guides
+
+:::cdi-message
+- **ID:** CDI-ECO-005
+- **Type:** User Orientation
+- **Audience:** Learners, analysts, research teams, and collaborators
+- **Theme:** Practical use of the CDI ecosystem
+:::
+
+The CDI System Guides can be used in several ways.
+
+## For learning
+
+Use the guides as structured learning pathways. Begin with the foundation guide, then move toward domain-specific workflows.
+
+## For research
+
+Use the guides to organize reproducible project workflows, especially when working with public datasets, omics outputs, or clinical data tables.
+
+## For consulting and training
+
+Use the guides as public proof of system thinking, reproducible workflow development, and practical analytical communication.
+
+## For public communication
+
+Use the launch materials to introduce each guide consistently across LinkedIn, GitHub README files, websites, and short social posts.
+
+## Suggested workflow
+
+```text
+Read the ecosystem overview
+→ choose a guide profile
+→ open the full guide repository
+→ adapt the workflow to a real project
+→ communicate the result clearly
+```

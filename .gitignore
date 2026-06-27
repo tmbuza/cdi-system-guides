@@ -1,0 +1,21 @@
+# Quarto build/cache outputs
+.quarto/
+_freeze/
+_site/
+docs/
+
+# Python/R local environments
+.venv/
+.env
+.Rproj.user/
+.Rhistory
+.RData
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+/.quarto/

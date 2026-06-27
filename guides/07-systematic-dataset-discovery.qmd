@@ -1,0 +1,28 @@
+# Systematic Dataset Discovery
+
+:::cdi-message
+- **ID:** CDI-ECO-007
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Researchers, analysts, bioinformatics teams, and learners
+- **Theme:** Finding suitable public datasets systematically
+:::
+
+Systematic Dataset Discovery helps turn a research question into a transparent dataset selection process.
+
+## Role in the CDI ecosystem
+
+This guide sits between the research question and data acquisition.
+
+It helps identify, screen, prioritize, and document public datasets before downstream analysis begins.
+
+## Public short introduction
+
+Systematic Dataset Discovery helps researchers move from broad research questions to eligible public datasets using a transparent and reproducible screening workflow.
+
+## Public long introduction
+
+Systematic Dataset Discovery is a CDI guide for finding and evaluating public datasets before analysis begins. It supports reproducible research by making dataset search, screening, inclusion, exclusion, and prioritization more transparent. The guide is especially useful when public omics datasets need to be selected carefully before acquisition and analysis.
+
+## Suggested call to action
+
+Use this guide when the first challenge is finding the right dataset.

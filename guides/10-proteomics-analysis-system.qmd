@@ -1,0 +1,26 @@
+# Proteomics Analysis System
+
+:::cdi-message
+- **ID:** CDI-ECO-010
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Proteomics researchers, analysts, bioinformatics learners, and interpretation teams
+- **Theme:** Results-first proteomics interpretation
+:::
+
+The Proteomics Analysis System is a results-first CDI guide for working with processed proteomics result tables.
+
+## Role in the CDI ecosystem
+
+This guide focuses on the common real-world starting point where users already have differential protein abundance results and need to clean, rank, annotate, enrich, visualize, interpret, and report them.
+
+## Public short introduction
+
+The Proteomics Analysis System helps turn processed proteomics result tables into ranked proteins, functional interpretation, and reproducible reports.
+
+## Public long introduction
+
+The Proteomics Analysis System is a CDI omics guide for results-first proteomics workflows. It begins with processed differential protein tables and guides users through table inspection, metadata validation, differential abundance interpretation, protein ranking, identifier cleaning, GO and pathway enrichment, network analysis, visualization, biological interpretation, and reproducible reporting.
+
+## Suggested call to action
+
+Use this guide when you already have proteomics results and need to turn them into defensible biological interpretation.

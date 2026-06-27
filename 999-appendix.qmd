@@ -1,0 +1,20 @@
+# Appendix
+
+:::cdi-message
+- **ID:** CDI-ECO-999A
+- **Type:** Appendix
+- **Audience:** Readers who want supporting notes and reusable materials
+- **Theme:** Supplementary CDI ecosystem material
+:::
+
+This appendix can store supporting notes, checklists, terminology, future guide ideas, and implementation references for the CDI ecosystem.
+
+## Future guide candidates
+
+Potential future CDI guides may include:
+
+- AI, Thinking & Decision Systems;
+- Applied Decision Support Systems;
+- Public Health Data Systems;
+- Research Communication Systems;
+- Reproducible Reporting Systems.

@@ -1,0 +1,26 @@
+# Microbiome Analysis System
+
+:::cdi-message
+- **ID:** CDI-ECO-009
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Microbiome researchers, bioinformatics learners, analysts, and project teams
+- **Theme:** From microbial communities to defensible biological insights
+:::
+
+The Microbiome Analysis System is a domain-specific CDI guide for organizing microbiome analysis into a reproducible workflow.
+
+## Role in the CDI ecosystem
+
+This guide builds on data acquisition and moves into microbiome-specific quality control, feature generation, taxonomic profiling, diversity analysis, functional profiling, differential analysis, interpretation, and reporting.
+
+## Public short introduction
+
+The Microbiome Analysis System helps turn microbiome data into reproducible profiles, interpretable results, and defensible biological insights.
+
+## Public long introduction
+
+The Microbiome Analysis System is a CDI omics guide for structuring microbiome analysis from data inputs to biological interpretation. It connects acquisition, quality control, feature generation, taxonomic profiling, functional profiling, differential analysis, and reproducible reporting into a coherent analytical system.
+
+## Suggested call to action
+
+Use this guide when microbiome data need to become a reproducible analytical workflow rather than a collection of disconnected outputs.

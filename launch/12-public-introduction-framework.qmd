@@ -1,0 +1,39 @@
+# Public Introduction Framework
+
+:::cdi-message
+- **ID:** CDI-ECO-012
+- **Type:** Public Communication Framework
+- **Audience:** Public readers, LinkedIn audiences, collaborators, learners, and website visitors
+- **Theme:** Consistent public introduction of CDI guides
+:::
+
+This chapter provides the reusable public introduction framework for CDI System Guides.
+
+## Core CDI message
+
+```text
+From complex data questions to reproducible analytical systems.
+```
+
+## Umbrella introduction
+
+Complex Data Insights System Guides are practical, systems-oriented resources for building reproducible analytical workflows across data science, public dataset discovery, data acquisition, omics analysis, clinical data systems, and public communication.
+
+Each guide is designed as a modular system that can stand alone, but together they form a connected pathway from question formulation to defensible analysis, interpretation, reporting, and decision support.
+
+## Reusable launch structure
+
+```text
+1. Name the guide
+2. State the problem it solves
+3. Explain where it fits in the CDI ecosystem
+4. Describe the practical workflow
+5. Identify who it is for
+6. End with a clear call to action
+```
+
+## Consistent hashtags
+
+```text
+#ComplexDataInsights #CDISystemGuides #DataScience #ReproducibleResearch #AnalyticalSystems #OpenScience
+```

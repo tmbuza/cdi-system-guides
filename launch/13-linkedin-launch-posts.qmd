@@ -1,0 +1,38 @@
+# LinkedIn Launch Posts
+
+:::cdi-message
+- **ID:** CDI-ECO-013
+- **Type:** LinkedIn Launch Copy
+- **Audience:** LinkedIn network, collaborators, learners, researchers, and technical professionals
+- **Theme:** Professional launch messaging
+:::
+
+This chapter stores reusable LinkedIn launch language for CDI System Guides.
+
+## General CDI ecosystem launch post
+
+Complex Data Insights System Guides are built around one central message:
+
+**From complex data questions to reproducible analytical systems.**
+
+The CDI ecosystem connects practical guides across data science foundations, dataset discovery, data acquisition, omics analysis, clinical data systems, and reproducible reporting.
+
+Each guide can stand alone, but together they form a pathway from question formulation to defensible analysis, interpretation, and decision support.
+
+#ComplexDataInsights #CDISystemGuides #DataScience #ReproducibleResearch #AnalyticalSystems #OpenScience
+
+## Guide-specific template
+
+```text
+I am introducing [GUIDE NAME], part of the Complex Data Insights System Guides ecosystem.
+
+This guide focuses on [PROBLEM / WORKFLOW AREA].
+
+It fits into the CDI pathway by helping users move from [STARTING POINT] to [OUTPUT / DECISION VALUE].
+
+The goal is practical: not just to explain methods, but to organize analytical work into reproducible systems.
+
+From complex data questions to reproducible analytical systems.
+
+#ComplexDataInsights #CDISystemGuides #ReproducibleResearch #AnalyticalSystems
+```

@@ -1,0 +1,28 @@
+# CDI Data Acquisition System
+
+:::cdi-message
+- **ID:** CDI-ECO-008
+- **Type:** Ecosystem Guide Profile
+- **Audience:** Bioinformatics teams, analysts, researchers, and data managers
+- **Theme:** Reproducible public data acquisition
+:::
+
+The CDI Data Acquisition System supports reproducible retrieval, validation, and organization of public omics data.
+
+## Role in the CDI ecosystem
+
+This guide converts selected datasets into structured project inputs.
+
+It connects dataset discovery with downstream analytical systems such as microbiome and proteomics workflows.
+
+## Public short introduction
+
+The CDI Data Acquisition System helps turn selected public datasets into reproducible, validated, analysis-ready project inputs.
+
+## Public long introduction
+
+The CDI Data Acquisition System is a practical guide for retrieving, validating, and organizing public omics data. It focuses on reproducibility, traceability, manifests, validation reports, and project-ready data organization. This system helps ensure that downstream analysis begins from documented and defensible data inputs.
+
+## Suggested call to action
+
+Use this guide when you need to move from selected accessions to organized, validated data files.

@@ -1,0 +1,16 @@
+---
+title: ""
+engine: knitr
+format:
+  html:
+    body-classes: front-page
+---
+
+<div style="text-align: center; margin-top: 1.5em;">
+  <img src="assets/images/cover/cdi-system-guides-cover.png" width="75%" />
+</div>
+
+<div style="text-align: center; font-style: normal; margin-top: 1em;">
+CDI Ecosystem: Updated {{< meta date >}}
+</div>
+

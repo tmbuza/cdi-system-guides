@@ -1,0 +1,44 @@
+# CDI Framework
+
+:::cdi-message
+- **ID:** CDI-ECO-002
+- **Type:** Framework Chapter
+- **Audience:** Analysts, researchers, project leads, and trainees
+- **Theme:** From questions to systems
+:::
+
+The CDI framework organizes analytical work as a pathway.
+
+```text
+Complex data question
+→ structured discovery
+→ reproducible acquisition
+→ validated analysis
+→ defensible interpretation
+→ clear reporting
+→ decision support
+```
+
+## Why a framework is needed
+
+Complex data work often fails not because individual methods are weak, but because the workflow is fragmented.
+
+A strong analytical system needs:
+
+- a clear question;
+- traceable data sources;
+- reproducible acquisition;
+- documented assumptions;
+- validated outputs;
+- transparent interpretation;
+- communication that supports decisions.
+
+## CDI system logic
+
+Each CDI System Guide should answer five questions:
+
+1. What problem does this system solve?
+2. What inputs does it require?
+3. What workflow does it follow?
+4. What outputs does it produce?
+5. How can the outputs support interpretation, reporting, or decisions?
